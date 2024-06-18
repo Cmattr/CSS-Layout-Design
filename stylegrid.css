@@ -41,7 +41,7 @@ footer
     grid-area: footer;
 }
 
-/* Responsive design for smaller screens */
+
 @media screen and (max-width: 768px) 
 {
     .grid-container 
